@@ -7,6 +7,7 @@
 - Fixed screen tearing when using fully buffer mode.
 - Fixed spaces in menus so they are highlighted now for consistency.
 - Fixed Game Genie: turn on "launch system timing" in hardware menu.
+- Fixed SNES Powerpak: turn on "launch system timing" in hardware menu.
 - Fixed Hori SGB Commander issue.
 - Fixed R-type 3/Super R-type issue.
 - Fixed Wing Commander drum sound.
@@ -18,6 +19,7 @@
 - Fixed Mega Lo Mania shield graphic.
 - Fixed save-game loading for Slayers.
 - Fixed 72hr Kaizo audio bug - enable SPC RAM startup state in the hardware menu.
+- Fixed certain recent homebrew/official reproduction cartridges, like Wild Guns and Cotton 100% not booting.
 - Reload Save RAM added to the tools menu - Saves can now be reloaded onto cartridges from a file.
 - Fixed Copysnes save RAM reading bugs.
 - Fixed Copysnes SDD-1 detection.
